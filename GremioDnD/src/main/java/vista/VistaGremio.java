@@ -9,7 +9,7 @@ package vista;
  * @author Usuario
  */
 public class VistaGremio extends javax.swing.JFrame {
-    
+
     private static final java.util.logging.Logger logger = java.util.logging.Logger.getLogger(VistaGremio.class.getName());
 
     /**
@@ -17,10 +17,10 @@ public class VistaGremio extends javax.swing.JFrame {
      */
     public VistaGremio() {
         initComponents();
+        ((javax.swing.GroupLayout) jPanel2.getLayout()).setHonorsVisibility(false);
         getContentPane().setBackground(new java.awt.Color(245, 239, 230));
-    setLocationRelativeTo(null);
-}
-    
+        setLocationRelativeTo(null);
+    }
 
     /**
      * This method is called from within the constructor to initialize the form.
@@ -259,7 +259,7 @@ public class VistaGremio extends javax.swing.JFrame {
         jPanel4.setLayout(jPanel4Layout);
         jPanel4Layout.setHorizontalGroup(
             jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
-            .addComponent(jScrollPane2, javax.swing.GroupLayout.DEFAULT_SIZE, 439, Short.MAX_VALUE)
+            .addComponent(jScrollPane2, javax.swing.GroupLayout.DEFAULT_SIZE, 555, Short.MAX_VALUE)
         );
         jPanel4Layout.setVerticalGroup(
             jPanel4Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -273,7 +273,7 @@ public class VistaGremio extends javax.swing.JFrame {
         jPanel3Layout.setHorizontalGroup(
             jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel3Layout.createSequentialGroup()
-                .addComponent(jScrollPane4, javax.swing.GroupLayout.PREFERRED_SIZE, 0, Short.MAX_VALUE)
+                .addComponent(jScrollPane4, javax.swing.GroupLayout.DEFAULT_SIZE, 573, Short.MAX_VALUE)
                 .addContainerGap())
         );
         jPanel3Layout.setVerticalGroup(
@@ -299,7 +299,7 @@ public class VistaGremio extends javax.swing.JFrame {
                         .addComponent(btnReportes, javax.swing.GroupLayout.PREFERRED_SIZE, 129, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addGap(18, 18, 18)
                         .addComponent(btnVerHistorial, javax.swing.GroupLayout.PREFERRED_SIZE, 135, javax.swing.GroupLayout.PREFERRED_SIZE)
-                        .addGap(0, 14, Short.MAX_VALUE)))
+                        .addGap(0, 0, Short.MAX_VALUE)))
                 .addContainerGap())
         );
         layout.setVerticalGroup(
@@ -396,18 +396,56 @@ public class VistaGremio extends javax.swing.JFrame {
     private javax.swing.JTextField txtNombre;
     private javax.swing.JTextField txtPuntosVida;
     // End of variables declaration//GEN-END:variables
-public javax.swing.JComboBox<String> getCmbClase() { return cmbClase; }
-    public javax.swing.JTextField getTxtNombre() { return txtNombre; }
-    public javax.swing.JTextField getTxtNivel() { return txtNivel; }
-    public javax.swing.JTextField getTxtPuntosVida() { return txtPuntosVida; }
-    public javax.swing.JLabel getLblAtributoEspecial() { return lblAtributoEspecial; }
-    public javax.swing.JTextField getTxtAtributoEspecial() { return txtAtributoEspecial; }
-    public javax.swing.JCheckBox getChkArmaduraPesada() { return chkArmaduraPesada; }
-    public javax.swing.JButton getBtnRegistrar() { return btnRegistrar; }
-    public javax.swing.JButton getBtnSimularCombate() { return btnSimularComabte; }
-    public javax.swing.JButton getBtnReportes() { return btnReportes; }
-    public javax.swing.JButton getBtnVerHistorial() { return btnVerHistorial; }
-    public javax.swing.JTextArea getTxtAreaGremio() { return txtAreaGremio; }
-    public javax.swing.JTextArea getTxtAreaCombate() { return txtAreaCombate; }
+public javax.swing.JComboBox<String> getCmbClase() {
+        return cmbClase;
+    }
+
+    public javax.swing.JTextField getTxtNombre() {
+        return txtNombre;
+    }
+
+    public javax.swing.JTextField getTxtNivel() {
+        return txtNivel;
+    }
+
+    public javax.swing.JTextField getTxtPuntosVida() {
+        return txtPuntosVida;
+    }
+
+    public javax.swing.JLabel getLblAtributoEspecial() {
+        return lblAtributoEspecial;
+    }
+
+    public javax.swing.JTextField getTxtAtributoEspecial() {
+        return txtAtributoEspecial;
+    }
+
+    public javax.swing.JCheckBox getChkArmaduraPesada() {
+        return chkArmaduraPesada;
+    }
+
+    public javax.swing.JButton getBtnRegistrar() {
+        return btnRegistrar;
+    }
+
+    public javax.swing.JButton getBtnSimularCombate() {
+        return btnSimularComabte;
+    }
+
+    public javax.swing.JButton getBtnReportes() {
+        return btnReportes;
+    }
+
+    public javax.swing.JButton getBtnVerHistorial() {
+        return btnVerHistorial;
+    }
+
+    public javax.swing.JTextArea getTxtAreaGremio() {
+        return txtAreaGremio;
+    }
+
+    public javax.swing.JTextArea getTxtAreaCombate() {
+        return txtAreaCombate;
+    }
 
 }
