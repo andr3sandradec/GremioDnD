@@ -70,7 +70,7 @@ public class VistaGremio extends javax.swing.JFrame {
         );
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("Gremio DnD 1ra Edición - Simulador de Comabtes.");
+        setTitle("Gremio DnD 5ta Edición - Simulador de Comabtes.");
         setBackground(new java.awt.Color(197, 173, 126));
 
         btnSimularComabte.setBackground(new java.awt.Color(51, 0, 0));
@@ -273,7 +273,7 @@ public class VistaGremio extends javax.swing.JFrame {
         jPanel3Layout.setHorizontalGroup(
             jPanel3Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel3Layout.createSequentialGroup()
-                .addComponent(jScrollPane4, javax.swing.GroupLayout.DEFAULT_SIZE, 573, Short.MAX_VALUE)
+                .addComponent(jScrollPane4)
                 .addContainerGap())
         );
         jPanel3Layout.setVerticalGroup(
