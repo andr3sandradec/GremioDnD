@@ -1,0 +1,41 @@
+[2026-11-19 01:41:45] [REGISTRO] [Guerrero] #1 Isaias | Nivel: 15 | PV: 120 | Armadura Pesada: Sí
+[2026-11-19 01:41:50] [COMBATE] El Guerrero Isaias usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 01:42:23] [REGISTRO] [Mago] #2 Dombouldore | Nivel: 20 | PV: 500 | Espacios de Conjuro: 5
+[2026-11-19 01:42:27] [COMBATE] El Guerrero Isaias usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 01:42:27] [COMBATE] El Mago Dombouldore gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego.
+[2026-11-19 01:42:32] [COMBATE] El Guerrero Isaias usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 01:42:32] [COMBATE] El Mago Dombouldore gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego.
+[2026-11-19 01:42:33] [COMBATE] El Guerrero Isaias usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 01:42:33] [COMBATE] El Mago Dombouldore gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego.
+[2026-11-19 01:42:34] [COMBATE] El Guerrero Isaias usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 01:42:34] [COMBATE] El Mago Dombouldore gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego.
+[2026-11-19 01:42:44] [COMBATE] El Guerrero Isaias usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 01:42:44] [COMBATE] El Mago Dombouldore gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego.
+[2026-11-19 01:42:46] [COMBATE] El Guerrero Isaias usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 01:42:46] [COMBATE] El Mago Dombouldore gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego.
+[2026-11-19 01:42:47] [COMBATE] El Guerrero Isaias usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 01:42:47] [COMBATE] El Mago Dombouldore gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego.
+[2026-11-19 01:42:47] [COMBATE] El Guerrero Isaias usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 01:42:47] [COMBATE] El Mago Dombouldore gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego.
+[2026-11-19 01:42:47] [COMBATE] El Guerrero Isaias usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 01:42:47] [COMBATE] El Mago Dombouldore gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego.
+[2026-11-19 01:42:47] [COMBATE] El Guerrero Isaias usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 01:42:47] [COMBATE] El Mago Dombouldore gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego.
+[2026-11-19 01:42:48] [COMBATE] El Guerrero Isaias usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 01:42:48] [COMBATE] El Mago Dombouldore gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego.
+[2026-11-19 01:42:48] [COMBATE] El Guerrero Isaias usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 01:42:48] [COMBATE] El Mago Dombouldore gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego.
+[2026-11-19 01:42:48] [COMBATE] El Guerrero Isaias usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 01:42:48] [COMBATE] El Mago Dombouldore gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego.
+[2026-11-19 01:42:54] [COMBATE] El Guerrero Isaias usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 01:42:54] [COMBATE] El Mago Dombouldore gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego.
+[2026-11-19 01:42:56] [COMBATE] El Guerrero Isaias usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 01:42:56] [COMBATE] El Mago Dombouldore gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego.
+[2026-11-19 01:43:03] [COMBATE] El Guerrero Isaias usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 01:43:03] [COMBATE] El Mago Dombouldore gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego.
+[2026-11-19 01:43:13] [COMBATE] El Guerrero Isaias usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 01:43:13] [COMBATE] El Mago Dombouldore gasta un espacio de conjuro para lanzar una poderosa Bola de Fuego.
+[2026-11-19 01:48:35] [REGISTRO] [Guerrero] #1 Samuelitoprruno | Nivel: 1 | PV: 10 | Armadura Pesada: No
+[2026-11-19 01:48:55] [REGISTRO] [Monje] #2 Karen Daniela | Nivel: 5 | PV: 200 | Puntos de Ki: 0
+[2026-11-19 01:48:57] [COMBATE] El Guerrero Samuelitoprruno usa Oleada de Acción para realizar múltiples ataques físicos continuos.
+[2026-11-19 01:48:57] [COMBATE] El Monje Karen Daniela gasta puntos de Ki para ejecutar una Ráfaga de Golpes y un Ataque Aturdidor.

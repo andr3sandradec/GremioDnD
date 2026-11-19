@@ -1,13 +1,18 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package main;
 
-/**
- *
- * @author Usuario
- */
+import controlador.ControladorGremio;
+import javax.swing.SwingUtilities;
+import util.FileManager;
+import vista.VistaGremio;
+
 public class Main {
-    
+
+    public static void main(String[] args) {
+        SwingUtilities.invokeLater(() -> {
+            VistaGremio vista = new VistaGremio();
+            FileManager fileManager = new FileManager();
+            new ControladorGremio(vista, fileManager);
+            vista.setVisible(true);
+        });
+    }
 }
