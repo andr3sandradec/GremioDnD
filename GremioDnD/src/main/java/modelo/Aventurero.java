@@ -27,7 +27,7 @@ public abstract class Aventurero implements IAccionCombate {
         this.puntosVida = puntosVida;
     }
 
-    // Sobrecarga de constructor (Overload): asigna nivel 1 por defecto
+    // Sobrecarga de constructor
     public Aventurero(String nombre, int puntosVida) {
         this(nombre, 1, puntosVida);
     }
@@ -57,7 +57,7 @@ public abstract class Aventurero implements IAccionCombate {
     public abstract String getDetalleEspecial();
     public abstract String getClasePersonaje();
 
-    // Getters y setters estrictamente necesarios
+    // Getters y setters 
     public int getId() {
         return id;
     }

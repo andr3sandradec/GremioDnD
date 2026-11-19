@@ -30,9 +30,7 @@ public class FileManager {
         this.rutaArchivo = rutaArchivo;
     }
 
-    /**
-     * Anexa una línea con marca de tiempo al archivo .txt sin borrar lo anterior.
-     */
+    //Anexa una línea con marca de tiempo al archivo .txt sin borrar lo anterior
     public void anexarRegistro(String tipoEvento, String contenido) throws IOException {
         String marcaTiempo = LocalDateTime.now().format(FORMATO_FECHA);
         String linea = String.format("[%s] [%s] %s", marcaTiempo, tipoEvento, contenido);
@@ -44,9 +42,8 @@ public class FileManager {
         }
     }
 
-    /**
-     * Lee todas las líneas registradas en el archivo de historial.
-     */
+    //Lee todas las líneas registradas en el archivo de historial.
+     
     public List<String> leerHistorial() throws IOException {
         List<String> lineas = new ArrayList<>();
         File archivo = new File(rutaArchivo);
