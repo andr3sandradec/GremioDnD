@@ -1,0 +1,6 @@
+target/
+*.class
+nbproject/private/
+build/
+.DS_Store
+*.log
